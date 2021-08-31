@@ -17,6 +17,10 @@
     }
 
     function run(){
+       
+        bodyElem.addEventListener('mousemove', onMouseMove);
+
+
     }
 
     run();
